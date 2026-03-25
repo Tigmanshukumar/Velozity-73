@@ -10,8 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-![Version](https://img.shields.io/badge/version-1.0.0-purple?style=flat-square)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-success?style=for-the-badge)](https://velozityproject.netlify.app/)
 
 </div>
 
@@ -99,10 +98,15 @@ npm run build
 
 ---
 
-## 🖼 Screenshot
+## 🖼️ Screenshots
 
-### Lighthouse Report
-*(Note: A desktop Lighthouse performance score of 85+ is required)*
+<table>
+  <tr>
+    <td align="center"><b>Lighthouse</b></td>
+     </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/MKf09xKr/Screenshot-(465).png" alt="Landing Page" width="400"/></td>
+  </tr>
+</table>
 
-![Lighthouse Score Placeholder](./path-to-your-image.png)
-*Replace the image path above with your manual Lighthouse screenshot.*
+---
